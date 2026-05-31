@@ -1,4 +1,4 @@
-🚀 Excited to Share My AI-Powered Collaborative Developer Platform Project!
+**🚀 Excited to Share My AI-Powered Collaborative Developer Platform Project!**
 
 After facing multiple challenges, debugging sessions, architecture redesigns, and countless learning moments, I finally built my own full-stack AI collaborative platform completely from scratch.
 
